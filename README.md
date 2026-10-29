@@ -1,7 +1,7 @@
 # Ryan Howe
 
-Computer Science student at the University of Waterloo, interested in systems programming, databases, and AI infrastructure.
+CS student at the University of Waterloo interested in systems, databases, and AI infrastructure.
 
-I build projects in C++ to understand how things work underneath the abstractions. Currently working on [SQLP](https://github.com/Mr-Methodical/sqlp-agents), exploring how SQL with paths affects query correctness and token efficiency for AI agents.
+Previously at Westinghouse, building Python and Perl automation that reduced manual review work by 89%.
 
-[LinkedIn](https://www.linkedin.com/in/ryan-howe-b8230034b/) · [Email](mailto:r3howe@uwaterloo.ca)
+Currently building [SQLP](https://github.com/Mr-Methodical/sqlp-agents) in C++ to explore more efficient database queries for AI agents.
